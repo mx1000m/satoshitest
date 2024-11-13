@@ -1,0 +1,12 @@
+{
+  "name": "Satoshi's Secret 3",
+  "short_name": "Satoshi's Secret 3",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
